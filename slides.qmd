@@ -52,7 +52,7 @@ title-slide-attributes:
 ::: incremental
 ✅ **Cadastro em Google.com**<br><br>
 
-✅ **Cadastro em Dados.gov.br**<br><br>
+✅ **Conexão com internet**<br><br>
 :::
 
 # <mark style="background-color: #268bd2;">Parte 1<br><br> Ciclo de Análise de dados</mark> {background-color="black" background-image="imgs/parte01.jpg" background-opacity="0.2"}
@@ -166,12 +166,3 @@ funções e pacotes para tudo
 
 ## <mark>Momento prática!</mark>
 
-<br>
-**Antes de começar o código, faça isso:**
-
-1. Acessar este link: [https://dados.gov.br/auth/minha-conta](https://dados.gov.br/auth/minha-conta)
-2. Clicar em "*Entrar com gov.br*"
-3. Digitar seu CPF e dados para cadastrar/acessar conta
-4. Clicar em *Gerar/Regerar* (Token)
-5. Clicar em *Ver* (Token)
-6. Copiar o Token gerado e armazenar em local seguro
